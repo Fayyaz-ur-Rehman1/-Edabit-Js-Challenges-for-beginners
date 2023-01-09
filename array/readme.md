@@ -1,0 +1,1 @@
+[Return-the-First-Element-in-an-Array](./js/return-the-first-element-in-an-array.js)
