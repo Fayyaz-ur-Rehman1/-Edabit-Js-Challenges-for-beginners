@@ -11,7 +11,7 @@
 // // minimum value of the second row is 5
 // // minimum value of the third row is 20
 // Notes
-
+// N/
 
 function fayyaz(a) {
     const eachMin = a.reduce((acc, val) => {
