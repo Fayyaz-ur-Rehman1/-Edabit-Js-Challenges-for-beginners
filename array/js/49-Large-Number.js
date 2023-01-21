@@ -10,7 +10,7 @@
 
 // largestNumbers(0, [1, 3, 4, 2]) ➞ []
 // Notes
-// The returned array must be sorted in ascending order.
+// The returned array must be sorted in ascending .
 
 function largestNumbers(n, arr){
     return n==0 ? [4, 3, 2, 1] : arr.sort((x,y)=>x-y).slice(-n,)
