@@ -19,7 +19,7 @@
 //   "AA",
 //   "AA"
 // ]
-
+// Notes
 // You can set a value for the parameter when creating the function e.g. function (x = 3)
 
 function makeRug(m, n, s = '#'){
