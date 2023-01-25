@@ -11,7 +11,7 @@
 // Notes
 // The keys will always be 1: 2: 3: in this order. Don't mistake keys with indexes.
 // I'm rating the challenge very easy because it can be hardcoded but try to do it dynamically, that is, imagine tomorrow you receive an object with 4 keys instead, your function would still work.
-// Check the Resources for tips if needed.
+// Check the  for tips if needed.
 
 function sayWhat(obj) 
 {
