@@ -8,7 +8,7 @@
 // forbiddenLetter("m", []) ➞ true
 // Notes
 // All inputs given will be in lowercase.
-// You will always be given a forbidden letter, but there may be empty 
+// You will always be given a forbidden letter, but there may be empty arrays.
 
 function a(fayyaz){
     a = ["rock", "paper", "scissors"]
