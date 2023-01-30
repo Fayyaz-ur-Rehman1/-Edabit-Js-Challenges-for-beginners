@@ -7,7 +7,7 @@
 
 // integerBoolean("001") ➞ [false, false, true]
 // Notes
-// Expect numbers with 0 and 1 only.
+// Expect numbers with 0 and 1 .
 
 
 function integerBoolean(n) {
