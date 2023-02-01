@@ -16,3 +16,10 @@ function search(arr1,arr2){
 console.log( search([1, 5, 3], 5))
 console.log( search([9, 8, 3], 3))
 console.log( search([1, 2, 3], 4) )
+function arr(search1,search2){
+    return search1.findIndex(x => x == search2);
+}
+
+console.log( arr([1, 5, 3], 5))
+console.log( arr([9, 8, 3], 3))
+console.log( arr([1, 2, 3], 4) )
