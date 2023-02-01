@@ -1,0 +1,29 @@
+// Spaces Between Each Character
+// Create a function that takes a string and returns a string with spaces in between all of the characters.
+
+// Examples
+// spaceMeOut("space") ➞ "s p a c e"
+
+// spaceMeOut("far out") ➞ "f a r   o u t"
+
+// spaceMeOut("elongated musk") ➞ "e l o n g a t e d   m u s k"
+// Notes
+// Treat a space as its own character (i.e. leave three spaces between words).
+
+function fayyaz(a){
+    a = ("space")
+    return a.split("").join(" ")
+}
+console.log(fayyaz())
+
+function chouhan(b){
+    b = ("far out")
+    return b.split("").join(" ")
+}
+console.log(chouhan())
+
+function khilji(c){
+    c = ("elongated musk")
+    return c.split("").join(" ")
+}
+console.log(khilji())
