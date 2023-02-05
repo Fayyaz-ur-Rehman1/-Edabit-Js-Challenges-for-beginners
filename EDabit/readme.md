@@ -4,3 +4,5 @@
 ---
 [3-Larn-Lodash-Drop-The-First-Elements-of-an-Array](./js/3-Larn-Lodash-Drop-The-First-Elements-of-an-Array.js)
 ---
+[4-upvotes-vs-downvotes](./js/4-upvotes-vs-downvotes.js)
+---
