@@ -30,12 +30,7 @@ function b(a){
  console.log(b([80, 5, 10]))
  console.log(b([-500, 0, ]))
 
- function c(d){
-   return d.indexOf(0)
- }
-console.log(b([1, 2, 3])) 
-console.log(b([80, 5, 100]))
-console.log(b([-500, 0, 50])) 
+
 
 function e(f){
     return f.slice(0,1)
@@ -50,3 +45,10 @@ function g(h){
 console.log(g([1, 2, 3]))
 console.log(g([80, 5, 100]))
 console.log(g([-500, 0, 50]))
+
+function c(d){
+    return d.indexOf(0)
+  }
+ console.log(b([1, 2, 3])) 
+ console.log(b([80, 5, 100]))
+ console.log(b([-500, 0, 50])) 
