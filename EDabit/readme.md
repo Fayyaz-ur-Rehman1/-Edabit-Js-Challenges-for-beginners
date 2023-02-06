@@ -16,3 +16,5 @@
 ---
 [9-Convert-an-Array-To-String](./js/9-Convert-an-Array-To-String.js)
 ---
+[10-Concatenating-Two-Integer-Array](./js/10-Concatenating-Two-Integer-Array.js)
+---
