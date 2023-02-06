@@ -6,3 +6,5 @@
 ---
 [4-upvotes-vs-downvotes](./js/4-upvotes-vs-downvotes.js)
 ---
+[5-Reverse-an-Array](./js/5-Reverse-an-Array.js)
+---
