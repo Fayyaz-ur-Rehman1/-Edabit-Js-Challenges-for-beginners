@@ -17,6 +17,7 @@ let b = arr[1]
 console.log(a)
 console.log(b)
 
+
 function assign(arr){
     return arr.indexOf(2) 
 }

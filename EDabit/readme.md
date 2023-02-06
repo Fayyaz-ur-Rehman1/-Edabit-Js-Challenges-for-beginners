@@ -12,3 +12,5 @@
 ---
 [7-Destrructuring-Arrays](./js/7-Destrructuring-Arrays.js)
 ---
+[8- Return-the-last-element-in-an-Array](./js/8-%20Return-the-last-element-in-an-Array.js)
+---
