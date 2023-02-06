@@ -8,3 +8,5 @@
 ---
 [5-Reverse-an-Array](./js/5-Reverse-an-Array.js)
 ---
+[6-Fix-THe-bug-Simple-Array-Manipulation](./js/6-Fix-THe-bug-Simple-Array-Manipulation.js)
+---
