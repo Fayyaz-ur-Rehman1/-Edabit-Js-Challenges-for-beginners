@@ -10,3 +10,5 @@
 ---
 [6-Fix-THe-bug-Simple-Array-Manipulation](./js/6-Fix-THe-bug-Simple-Array-Manipulation.js)
 ---
+[7-Destrructuring-Arrays](./js/7-Destrructuring-Arrays.js)
+---
