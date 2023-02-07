@@ -18,3 +18,7 @@
 ---
 [10-Concatenating-Two-Integer-Array](./js/10-Concatenating-Two-Integer-Array.js)
 ---
+[11-Find-the-index](./js/11-Find-the-index.js)
+---
+[12-buggy-Code-part-3](./js/12-buggy-Code-part-3.js)
+---
