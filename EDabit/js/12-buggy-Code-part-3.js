@@ -24,12 +24,3 @@ console.log( sumArray([1, 2, 3, 4, 5]))
 console.log( sumArray([-1, 0, 1]))
 console.log( sumArray([0, 4, 8, 12]))
 
-// function a(b){
-// d = 0
-//  for(let c = 0; c < b ; c++)
-//  d+=b[c]
-// }
-// return d
-// console.log(a([1, 2, 3, 4, 5]))
-// console.log(a([-1, 0, 1]))
-// console.log(a([0, 4, 8, 12]))
