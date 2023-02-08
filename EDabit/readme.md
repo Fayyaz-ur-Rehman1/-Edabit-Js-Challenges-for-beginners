@@ -22,3 +22,5 @@
 ---
 [12-buggy-Code-part-3](./js/12-buggy-Code-part-3.js)
 ---
+[13-Return-Type](./js/13-Return-Type.js)
+---
