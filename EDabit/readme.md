@@ -24,3 +24,5 @@
 ---
 [13-Return-Type](./js/13-Return-Type.js)
 ---
+[14-Array-Indexing](./js/14-Array-Indexing.js)
+---
