@@ -26,3 +26,5 @@
 ---
 [14-Array-Indexing](./js/14-Array-Indexing.js)
 ---
+[15-Find-the-Index-part-1](./js/15-Find-the-Index-part-1.js)
+---
