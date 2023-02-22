@@ -25,3 +25,4 @@ function arr(getLastItem){
 console.log(arr([1, 2, 3]))
 console.log(arr(["cat", "dog", "duck"]))
 console.log(arr([true, false, true]))
+

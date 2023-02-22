@@ -30,3 +30,5 @@ function khilji(danish){
     return danish.shift()
 }
 document.write(khilji())
+
+function khilji()

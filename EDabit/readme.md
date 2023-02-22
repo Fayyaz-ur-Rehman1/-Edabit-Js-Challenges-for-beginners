@@ -28,3 +28,5 @@
 ---
 [15-Find-the-Index-part-1](./js/15-Find-the-Index-part-1.js)
 ---
+[16-Array-of-string-and-array-ofnumber](./js/16-Array-of-string-and-array-ofnumber.js)
+---
