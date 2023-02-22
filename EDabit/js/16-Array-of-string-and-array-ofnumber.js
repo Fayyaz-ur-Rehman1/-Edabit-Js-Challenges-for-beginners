@@ -9,3 +9,11 @@ function toNumberArray(num){
  console.log(toNumberArray(["9.4", "4.2"])) // [9.4, 4.2]
  console.log(toNumberArray(["91", "44"])) // [91, 44]
  console.log(toNumberArray(["9.5", "8.8"]))// [9.5, 8.8]
+
+
+ function a(num1){
+    return num1.map(x=>Number(x))
+ }
+ console.log(a(["9.4", "4.2"])) // [9.4, 4.2]
+ console.log(a(["91", "44"])) // [91, 44]
+ console.log(a(["9.5", "8.8"]))// [9.5, 8.8]
