@@ -30,3 +30,7 @@
 ---
 [16-Array-of-string-and-array-ofnumber](./js/16-Array-of-string-and-array-ofnumber.js)
 ---
+[17-Check-if-an-Array-Contains-aGiven-Number](./js/17-Check-if-an-Array-Contains-aGiven-Number.js)
+---
+[18-Convert-to-All-Array-Itms-to-String](./js/18-Convert-to-All-Array-Itms-to-String.js)
+---
