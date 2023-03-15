@@ -1,6 +1,6 @@
 // Create a function that takes an array and returns the types of values (data types) in a new array.
 
-// Examples
+// // Examples
 
 function arrayValuesTypes(b){
     return b = ( b.map(a=>typeof a) ) 
